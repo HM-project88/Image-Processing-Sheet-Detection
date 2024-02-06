@@ -1,0 +1,4 @@
+This program use a artificial neural network for find the Image 
+which has sheet or not. We use some Images for training and testing 
+the system. for run the program you should run "Main1.m" and after that you 
+can see the result.
